@@ -1,6 +1,6 @@
 {
   "name": "@ellentorg/congenial-giggle",
-  "version": "4.17.158",
+  "version": "4.17.159",
   "description": "",
   "main": "index.js",
   "author": "ellentea",
@@ -518,7 +518,7 @@
   "bugs": {
     "url": "https://github.com/ellentorg/congenial-giggle/issues"
   },
-  "packageManager": "yarn@4.5.0",
+  "packageManager": "yarn@4.5.1",
   "dependencies": {
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
